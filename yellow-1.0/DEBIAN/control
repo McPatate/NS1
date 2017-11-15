@@ -1,0 +1,9 @@
+Package: Yellow
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: libgtkmm-3.0-dev
+Maintainer: mechard benjamin <benjamin.mechard@epitech.eu>
+Description: Live Packet Capture
+Homepage: http://127.0.0.1
